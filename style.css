@@ -1,0 +1,334 @@
+.container{
+    max-width: 1326px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #F2F5F8;
+}
+.flags{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+#usa-btn{
+background-color: white;
+color: #758BFD;
+border-style: none;
+}
+.input{
+    border-style: none;
+    height: 37px;
+    background-color: #F2F5F8;
+    border-radius: 10%;
+}
+.borderBottom4{
+    margin-top: 0.5rem;
+    border-bottom: 2px solid grey;
+    opacity: 10%;
+}
+.h4{
+    display: flex;
+    justify-content: space-between;
+   width: 80%;
+   margin: 0 auto;
+   margin-top: 3rem;
+    align-items: center; 
+    background-color: #F2F5F8;
+    font-size: 20px;
+    font-weight: bold;
+}
+.carousel-div{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.carousel-item{
+    width: 706px;
+    height: 230px;
+}
+.slider-div{
+    width: 100%;
+    background-color: white;
+    height: 471px;
+    border-radius: 3%;
+}
+.barclays{
+    font-size: 24px;
+    margin-top: 3rem;
+}
+.text-muted{
+    font-size: 12px;
+}
+.small-div{
+    width: 45%;
+    margin-left: 2rem;
+    background-color: white;
+    height: 471px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 10px;
+    border-radius: 3%;
+}
+.icon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.borderBottom{
+    margin-top: 4rem;
+    border-bottom: 2px solid grey;
+    opacity: 10%;
+}
+.news-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+.news-header p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.cardsSection{
+        width: 90%;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 auto;
+        justify-content: space-between;
+}
+.section{
+    width: 260px;
+  height: 368px;
+  background-color: white;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  text-align: center;
+  position: relative;
+}
+.img{
+    width: 224px;
+  height: 125px;
+  border-radius: 8px;
+}
+.h1{
+    font-size: 1rem;
+    width: 80%;
+    margin: 1rem auto;
+}
+.p{
+    font-size: 0.7rem;
+    color: #69A3A2;
+    position: absolute;
+    bottom: 0.7rem;
+}
+#how-do-it {
+    width: 100%;
+  }
+  .acordion-cont{
+    width: 93%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem auto;
+    
+  }
+  .accordion{
+   width: 50%;
+   
+  }
+  .accordion-item{
+    padding: 10px;
+   
+  }
+.how-do-i-border-bottom{
+    margin-top: 6px;
+    border-bottom: 2px solid grey;
+    opacity: 10%;
+}
+#fourths-section{
+    width: 100%;
+    display: flex;
+    margin-top: 5rem;
+}
+.kevin span{
+font-size: 18px;
+color: #8172D5;
+font-weight: bold;
+}
+#fourths-section-div{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;  
+}
+#fourths-section-div h1{
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFB140; 
+    margin-right: 6rem; 
+}
+#fourths-section-div p{
+    margin-right: 6rem;
+    font-size: 16px;
+    color: #69A3A2;
+    font-weight: bold;
+}
+#fourths-section-div .learn{
+    margin-left: 5rem;
+font-size: 24px;
+color: #133B3A;
+}
+.registerBtn{
+    background-color: #758BFD;
+    height: 35px;
+    width: 110px;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    border-style: none;
+    border-radius: 3px;
+    margin-top: 3rem;
+}
+.modal-body{
+    opacity: 0;
+}
+.registerForFree{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.link-div h2{
+    font-size: 13px;
+    margin-right: 2rem;
+}
+.fourth-section-border-bottom{
+    margin-top: 1rem;
+    border-bottom: 2px solid grey;
+    opacity: 10%;
+}
+.section-fifth{
+    width: 100%;
+    margin-top: 4rem;
+}
+.section-fifth-div{
+    display: flex;
+    justify-content: space-around;
+}
+.photoDiv{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+   gap: 10px;
+}
+
+.section-fifth-div span{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 1rem; 
+}
+.photoDiv div:first-child p{
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+.fifth-section-button button{
+    background-color: #758BFD;
+    height: 35px;
+    color: white;
+    border-radius: 3px;
+    border-style: none;
+}
+.fourth-section-border-bottom{
+    margin-top: 3rem;
+    border-bottom: 2px solid grey;
+    opacity: 10%;
+}
+.section-sixth{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+
+.news{
+    margin-left: 9.5rem;
+    margin-top: 4rem;
+font-size: 18px;
+font-weight: bold;
+
+}
+.card{
+   width: 32%;
+    height: 409px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-style: none;
+    padding:30px;
+    margin:2%;
+    box-shadow:0 2px 3px 0px rgba(0,0,0,0.25); 
+}
+
+footer{
+    width: 100%;
+    height: 163px;
+    background-color: white;
+    margin-top: 2rem;
+}
+.footer-div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.text-div{
+    display: flex;
+    margin-top: 2rem;
+}
+.text-div span{
+    font-size: 25px;
+    color: #27187F;
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+.all{
+    font-size: 25px;
+    color: #27187F;
+    font-weight: bold;
+   
+}
+.port{
+    font-size: 25px;
+    color: #758BFD;
+    font-weight: bold;
+}
+.button-div button{
+    width: 140px;
+    height: 35px;
+    background-color: #758BFD;
+    color: white;
+    font-weight: bold;
+    border-style: none;
+    border-radius: 5%;
+}
+.footer-last-div{
+    width: 100%;
+   height: 70px;
+   background-color: #758BFD;
+   margin-top: 2rem;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   color: white;
+   font-size: 16px;
+   font-weight: bold;
+}
