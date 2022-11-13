@@ -82,6 +82,8 @@ text2.innerHTML=element.txt2
 
 registerBtn.addEventListener("click",() => {
 
-    modalBody.classList.toggle("modal-body")
-
+    modalBody.classList.toggle("modal-body");
  });
+ 
+ 
+
